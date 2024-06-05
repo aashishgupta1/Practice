@@ -31,6 +31,8 @@ var mapperConfig = new MapperConfiguration(mc =>
 IMapper mapper = mapperConfig.CreateMapper();
 builder.Services.AddSingleton(mapper);
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<ISMSSenderService, SMSSenderService>();
+builder.Services.AddScoped<IEmailSenderService, EmailSenderService>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<INotificationTypeContext, NotificationTypeContext>();
 builder.Services.AddScoped<INotificationStrategy, SMSSendStrategy>();

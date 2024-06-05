@@ -1,0 +1,12 @@
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\bin\Debug\net8.0\OrderServiceDesign.Logger.deps.json
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\bin\Debug\net8.0\OrderServiceDesign.Logger.dll
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\bin\Debug\net8.0\OrderServiceDesign.Logger.pdb
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.AssemblyInfoInputs.cache
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.AssemblyInfo.cs
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.csproj.CoreCompileInputs.cache
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.sourcelink.json
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.dll
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\refint\OrderServiceDesign.Logger.dll
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\OrderServiceDesign.Logger.pdb
+D:\Study\Interview Practice\Practice\OrderServiceDesign.Logger\obj\Debug\net8.0\ref\OrderServiceDesign.Logger.dll

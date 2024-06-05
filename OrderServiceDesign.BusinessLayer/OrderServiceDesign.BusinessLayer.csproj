@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\OrderServiceDesign.DataAccessLayer\OrderServiceDesign.DataAccessLayer.csproj" />
     <ProjectReference Include="..\OrderServiceDesign.Domain\OrderServiceDesign.Domain.csproj" />
+    <ProjectReference Include="..\OrderServiceDesign.NotificationBase\OrderServiceDesign.NotificationBase.csproj" />
   </ItemGroup>
 
 </Project>

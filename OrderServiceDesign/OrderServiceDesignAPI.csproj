@@ -15,6 +15,8 @@
   <ItemGroup>
     <ProjectReference Include="..\OrderServiceDesign.BusinessLayer\OrderServiceDesign.BusinessLayer.csproj" />
     <ProjectReference Include="..\OrderServiceDesign.Domain\OrderServiceDesign.Domain.csproj" />
+    <ProjectReference Include="..\OrderServiceDesign.EmailNotification\OrderServiceDesign.EmailNotification.csproj" />
+    <ProjectReference Include="..\OrderServiceDesign.SMSNotification\OrderServiceDesign.SMSNotification.csproj" />
   </ItemGroup>
 
 </Project>
