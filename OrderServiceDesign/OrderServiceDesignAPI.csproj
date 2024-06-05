@@ -9,6 +9,9 @@
   <ItemGroup>
     <PackageReference Include="MediatR" Version="12.2.0" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+    <PackageReference Include="Serilog" Version="4.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="8.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
@@ -16,6 +19,7 @@
     <ProjectReference Include="..\OrderServiceDesign.BusinessLayer\OrderServiceDesign.BusinessLayer.csproj" />
     <ProjectReference Include="..\OrderServiceDesign.Domain\OrderServiceDesign.Domain.csproj" />
     <ProjectReference Include="..\OrderServiceDesign.EmailNotification\OrderServiceDesign.EmailNotification.csproj" />
+    <ProjectReference Include="..\OrderServiceDesign.Logger\OrderServiceDesign.Logger.csproj" />
     <ProjectReference Include="..\OrderServiceDesign.SMSNotification\OrderServiceDesign.SMSNotification.csproj" />
   </ItemGroup>
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderServiceDesign.Logger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03dd0551e683369f1f98e2ac6bae868a1650fa1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ebc2308a19eff574127b322162a3147394565d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderServiceDesign.Logger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderServiceDesign.Logger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

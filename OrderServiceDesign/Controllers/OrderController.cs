@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OrderServiceDesign.BusinessLayer.Interface;
 using OrderServiceDesign.Domain.DTO;
+using OrderServiceDesign.Logger;
 using OrderServiceDesignAPI.CommandQuery;
+
 
 namespace OrderServiceDesignAPI.Controllers
 {
@@ -11,15 +13,17 @@ namespace OrderServiceDesignAPI.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
-        IOrderService _orderService {  get; set; }
+        ILoggerBase _logger;
         IMediator _mediator;
-        public OrderController(IOrderService orderService, IMediator mediator)
+        public OrderController(IMediator mediator, ILoggerBase logger)
         {
             _mediator = mediator;
+            _logger = logger;
         }
         [HttpPost]
         public async Task<IActionResult> CreateOrder(CreateOrderDetailDTO orderDetailDTO)
         {
+            _logger.Information("CreateOrder method start");
             bool result = await _mediator.Send(new CreateOrderDetailsCommand() { orderDetailDTO = orderDetailDTO });
             return Ok();
         }

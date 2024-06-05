@@ -11,6 +11,7 @@ Chart.lock
 /OrderServiceDesign.Logger/obj
 /OrderServiceDesign.NotificationBase/obj
 /OrderServiceDesign.SMSNotification/obj
+/OrderServiceDesign.Logger/obj
 /OrderServiceDesign/bin
 /OrderServiceDesign.BusinessLayer/bin
 /OrderServiceDesign.Common/bin
@@ -20,6 +21,7 @@ Chart.lock
 /OrderServiceDesign.Logger/bin
 /OrderServiceDesign.NotificationBase/bin
 /OrderServiceDesign.SMSNotification/bin
+/OrderServiceDesign.Logger/bin
 /.vs/OnboardingConsumer/v17
 .vs/OrderServiceDesign/DesignTimeBuild/.dtbcache.v2
 .vs/OrderServiceDesign/v17/.suo
