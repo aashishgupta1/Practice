@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Interview Practice\\OrderServiceDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|solutionrelative:orderservicedesign\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE0A4BA-056A-495D-B925-8D2F5B49F9C3}|OrderServiceDesign.DataAccessLayer\\OrderServiceDesign.DataAccessLayer.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.dataaccesslayer\\repository\\concrete\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE0A4BA-056A-495D-B925-8D2F5B49F9C3}|OrderServiceDesign.DataAccessLayer\\OrderServiceDesign.DataAccessLayer.csproj|solutionrelative:orderservicedesign.dataaccesslayer\\repository\\concrete\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign\\commandquery\\deleteorderdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|solutionrelative:orderservicedesign\\commandquery\\deleteorderdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0BAA-D589-4187-B076-C5A71D8A34CF}|OrderServiceDesign.BusinessLayer\\OrderServiceDesign.BusinessLayer.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.businesslayer\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0BAA-D589-4187-B076-C5A71D8A34CF}|OrderServiceDesign.BusinessLayer\\OrderServiceDesign.BusinessLayer.csproj|solutionrelative:orderservicedesign.businesslayer\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign\\commandquery\\createorderdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|solutionrelative:orderservicedesign\\commandquery\\createorderdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0BAA-D589-4187-B076-C5A71D8A34CF}|OrderServiceDesign.BusinessLayer\\OrderServiceDesign.BusinessLayer.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.businesslayer\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0BAA-D589-4187-B076-C5A71D8A34CF}|OrderServiceDesign.BusinessLayer\\OrderServiceDesign.BusinessLayer.csproj|solutionrelative:orderservicedesign.businesslayer\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE0A4BA-056A-495D-B925-8D2F5B49F9C3}|OrderServiceDesign.DataAccessLayer\\OrderServiceDesign.DataAccessLayer.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.dataaccesslayer\\repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE0A4BA-056A-495D-B925-8D2F5B49F9C3}|OrderServiceDesign.DataAccessLayer\\OrderServiceDesign.DataAccessLayer.csproj|solutionrelative:orderservicedesign.dataaccesslayer\\repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\dto\\shippingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\dto\\shippingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\dto\\customercartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\dto\\customercartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\dto\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\dto\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\entities\\customercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\entities\\customercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign.domain\\basedetail\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9B1CAB-A758-45E4-B982-FB2338D2B2A0}|OrderServiceDesign.Domain\\OrderServiceDesign.Domain.csproj|solutionrelative:orderservicedesign.domain\\basedetail\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|d:\\study\\interview practice\\orderservicedesign\\orderservicedesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40B66A-E55B-4AD2-84EA-B59394987768}|OrderServiceDesign\\OrderServiceDesignAPI.csproj|solutionrelative:orderservicedesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteOrderDetailsCommand.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\CommandQuery\\DeleteOrderDetailsCommand.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign\\CommandQuery\\DeleteOrderDetailsCommand.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\CommandQuery\\DeleteOrderDetailsCommand.cs",
+              "RelativeToolTip": "OrderServiceDesign\\CommandQuery\\DeleteOrderDetailsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.BusinessLayer\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.BusinessLayer\\Interface\\IOrderService.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.BusinessLayer\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "OrderServiceDesign.BusinessLayer\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.DataAccessLayer\\Repository\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.DataAccessLayer\\Repository\\Interface\\IOrderRepository.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.DataAccessLayer\\Repository\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderServiceDesign.DataAccessLayer\\Repository\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.DataAccessLayer\\Repository\\Concrete\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.DataAccessLayer\\Repository\\Concrete\\OrderRepository.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.DataAccessLayer\\Repository\\Concrete\\OrderRepository.cs",
+              "RelativeToolTip": "OrderServiceDesign.DataAccessLayer\\Repository\\Concrete\\OrderRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\DTO\\AddressDTO.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\AddressDTO.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\DTO\\AddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderServiceDesign\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:31:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketItemDTO.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\BasketItemDTO.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\DTO\\BasketItemDTO.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\BasketItemDTO.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\DTO\\BasketItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.BusinessLayer\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.BusinessLayer\\Service\\OrderService.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.BusinessLayer\\Service\\OrderService.cs",
+              "RelativeToolTip": "OrderServiceDesign.BusinessLayer\\Service\\OrderService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:34:12.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderDetailsCommand.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\CommandQuery\\CreateOrderDetailsCommand.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign\\CommandQuery\\CreateOrderDetailsCommand.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\CommandQuery\\CreateOrderDetailsCommand.cs",
+              "RelativeToolTip": "OrderServiceDesign\\CommandQuery\\CreateOrderDetailsCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:37:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShippingDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\ShippingDetailsDTO.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\DTO\\ShippingDetailsDTO.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\ShippingDetailsDTO.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\DTO\\ShippingDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\Entities\\BasketItem.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\Entities\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\Entities\\Address.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:06.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:38:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateOrderDetailDTO.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\CreateOrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\DTO\\CreateOrderDetailDTO.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\CreateOrderDetailDTO.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\DTO\\CreateOrderDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:38:30.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerCart.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\CustomerCart.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\Entities\\CustomerCart.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\CustomerCart.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\Entities\\CustomerCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:21:47.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\Entities\\ShippingDetails.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\Entities\\ShippingDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:21:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerCartDTO.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\CustomerCartDTO.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\DTO\\CustomerCartDTO.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\DTO\\CustomerCartDTO.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\DTO\\CustomerCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:22:15.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\BaseDetail\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign.Domain\\BaseDetail\\BaseEntity.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign.Domain\\BaseDetail\\BaseEntity.cs",
+              "RelativeToolTip": "OrderServiceDesign.Domain\\BaseDetail\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:41:00.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\Program.cs",
+              "RelativeDocumentMoniker": "OrderServiceDesign\\Program.cs",
+              "ToolTip": "D:\\Study\\Interview Practice\\OrderServiceDesign\\OrderServiceDesign\\Program.cs",
+              "RelativeToolTip": "OrderServiceDesign\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:52:55.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
